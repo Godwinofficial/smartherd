@@ -2,11 +2,17 @@
 
 ## Livestock Monitoring, Analytics and Management System
 
-SmartHerd Zambia is a modern livestock monitoring and management system designed to help farmers and livestock operators **monitor herd activity, track animal health, manage connected devices, identify critical events and make data informed decisions**.
+
+SmartHerd Zambia is a modern livestock monitoring and management system designed to help farmers and livestock operators monitor herd activity, track animal health, manage connected devices, identify critical events and make data informed decisions.
 
 The system provides a centralised dashboard for monitoring livestock information and presenting operational data through analytics, reports and alerts.
 
-The project demonstrates the application of modern web technologies to **digital transformation, data management, monitoring and operational decision making** within the livestock sector.
+Live Demo
+
+View SmartHerd Zambia Live https://smartherd2.vercel.app/
+
+The live application demonstrates the dashboard, livestock monitoring interfaces, analytics, health monitoring, device management and alert centre.
+
 
 ---
 
